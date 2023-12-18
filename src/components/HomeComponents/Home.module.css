@@ -1,0 +1,25 @@
+.hero_container {
+  margin-top: 100px;
+}
+
+.hero_div {
+  padding-left: 70px;
+}
+
+.hero_header {
+  color: #000;
+  margin-bottom: 20px;
+}
+
+.hero_text {
+  color: #fff;
+}
+
+.hero_img_div {
+  margin-top: 75px;
+}
+
+.hero_img {
+  width: 90%;
+  height: 600px;
+}
